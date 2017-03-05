@@ -1,3 +1,11 @@
+# 这是第二篇文章
+
+```js
+console.log('22222');
+```
+
+代码
+```js
 import React from 'react';
 import {Link} from 'react-router';
 import axios from 'axios';
@@ -35,3 +43,5 @@ class Blog extends React.Component{
 }
 
 export default Blog;
+
+```
